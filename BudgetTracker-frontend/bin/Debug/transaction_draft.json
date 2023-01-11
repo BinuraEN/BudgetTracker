@@ -1,0 +1,495 @@
+{
+  "ID": 48,
+  "Date": "2022-01-01T00:00:00",
+  "Note": "Grocery",
+  "Type": "Expense",
+  "Category": "Personal",
+  "Amount": 10000.55,
+  "Recurrence": true,
+  "RecurrOn": "2022-02-01T00:00:00",
+  "RowError": "",
+  "RowState": 1,
+  "Table": [
+    {
+      "ID": 1,
+      "Date": "2022-01-01T00:00:00",
+      "Note": "Grocery",
+      "Type": "Expense",
+      "Category": "Personal",
+      "Amount": 10000.55,
+      "Recurrence": true,
+      "RecurrOn": "2022-02-01T00:00:00"
+    },
+    {
+      "ID": 2,
+      "Date": "2022-02-02T00:00:00",
+      "Note": "PickMe",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 243.96,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 3,
+      "Date": "2022-02-04T00:00:00",
+      "Note": "Birthday gift",
+      "Type": "Income",
+      "Category": "Allowance",
+      "Amount": 3000.96,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 4,
+      "Date": "2022-02-06T00:00:00",
+      "Note": "GFLock",
+      "Type": "Expense",
+      "Category": "Fashion",
+      "Amount": 3500.33,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 5,
+      "Date": "2022-02-08T00:00:00",
+      "Note": "Weekly Allowance",
+      "Type": "Income",
+      "Category": "Allowance",
+      "Amount": 1500.59,
+      "Recurrence": true,
+      "RecurrOn": "2022-03-08T00:00:00"
+    },
+    {
+      "ID": 6,
+      "Date": "2022-02-10T00:00:00",
+      "Note": "Uber",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 256.55,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 7,
+      "Date": "2022-02-12T00:00:00",
+      "Note": "PartTime payout",
+      "Type": "Income",
+      "Category": "Salary",
+      "Amount": 15000.59,
+      "Recurrence": true,
+      "RecurrOn": "2022-03-12T00:00:00"
+    },
+    {
+      "ID": 8,
+      "Date": "2022-02-14T00:00:00",
+      "Note": "Medicine",
+      "Type": "Expense",
+      "Category": "Health",
+      "Amount": 2673.11,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 9,
+      "Date": "2022-02-16T00:00:00",
+      "Note": "Course Fee",
+      "Type": "Expense",
+      "Category": "Education",
+      "Amount": 12500.12,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 10,
+      "Date": "2022-02-18T00:00:00",
+      "Note": "Medicine",
+      "Type": "Expense",
+      "Category": "Health",
+      "Amount": 1000.9,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 11,
+      "Date": "2022-02-20T00:00:00",
+      "Note": "Text books",
+      "Type": "Expense",
+      "Category": "Education",
+      "Amount": 1700.34,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 12,
+      "Date": "2022-02-21T00:00:00",
+      "Note": "Uber",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 128.23,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 13,
+      "Date": "2022-02-22T00:00:00",
+      "Note": "Graduation Gift",
+      "Type": "Income",
+      "Category": "Allowance",
+      "Amount": 2000.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 14,
+      "Date": "2022-02-22T00:00:00",
+      "Note": "Rent",
+      "Type": "Income",
+      "Category": "Utilities",
+      "Amount": 15000.23,
+      "Recurrence": true,
+      "RecurrOn": "2022-03-21T00:00:00"
+    },
+    {
+      "ID": 15,
+      "Date": "2022-02-24T00:00:00",
+      "Note": "KFC",
+      "Type": "Expense",
+      "Category": "Food",
+      "Amount": 876.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 16,
+      "Date": "2022-02-26T00:00:00",
+      "Note": "XYZ Salary",
+      "Type": "Income",
+      "Category": "Salary",
+      "Amount": 96547.5,
+      "Recurrence": true,
+      "RecurrOn": "2022-03-25T00:00:00"
+    },
+    {
+      "ID": 17,
+      "Date": "2022-02-26T00:00:00",
+      "Note": "TP Bill",
+      "Type": "Expense",
+      "Category": "Utilities",
+      "Amount": 4050.99,
+      "Recurrence": true,
+      "RecurrOn": "2022-03-26T00:00:00"
+    },
+    {
+      "ID": 18,
+      "Date": "2022-02-28T00:00:00",
+      "Note": "Taco Bell",
+      "Type": "Expense",
+      "Category": "Food",
+      "Amount": 1600.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 19,
+      "Date": "2022-02-28T00:00:00",
+      "Note": "Arpico",
+      "Type": "Expense",
+      "Category": "Grocery",
+      "Amount": 5400.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 20,
+      "Date": "2022-03-01T00:00:00",
+      "Note": "PickMe",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 450.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 21,
+      "Date": "2022-03-03T00:00:00",
+      "Note": "GFlock",
+      "Type": "Expense",
+      "Category": "Fashion",
+      "Amount": 2300.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 22,
+      "Date": "2022-03-08T00:00:00",
+      "Note": "Weekly Allowance",
+      "Type": "Income",
+      "Category": "Allowance",
+      "Amount": 1500.59,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 23,
+      "Date": "2022-03-05T00:00:00",
+      "Note": "Body Checkup",
+      "Type": "Expense",
+      "Category": "Health",
+      "Amount": 5500.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 24,
+      "Date": "2022-03-07T00:00:00",
+      "Note": "Uber",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 643.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 25,
+      "Date": "2022-03-09T00:00:00",
+      "Note": "KFC",
+      "Type": "Expense",
+      "Category": "Food",
+      "Amount": 3500.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 26,
+      "Date": "2022-03-11T00:00:00",
+      "Note": "Medicine",
+      "Type": "Expense",
+      "Category": "Health",
+      "Amount": 5450.99,
+      "Recurrence": true,
+      "RecurrOn": "1753-04-11T00:00:00"
+    },
+    {
+      "ID": 27,
+      "Date": "2022-03-11T00:00:00",
+      "Note": "Fuel Allowance",
+      "Type": "Income",
+      "Category": "Allowance",
+      "Amount": 2500.99,
+      "Recurrence": true,
+      "RecurrOn": "2022-04-22T00:00:00"
+    },
+    {
+      "ID": 28,
+      "Date": "2022-03-12T00:00:00",
+      "Note": "PartTime payout",
+      "Type": "Income",
+      "Category": "Salary",
+      "Amount": 15000.59,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 29,
+      "Date": "2022-03-13T00:00:00",
+      "Note": "Arpico",
+      "Type": "Expense",
+      "Category": "Grocery",
+      "Amount": 4550.99,
+      "Recurrence": true,
+      "RecurrOn": "2022-03-31T00:00:00"
+    },
+    {
+      "ID": 30,
+      "Date": "2022-03-15T00:00:00",
+      "Note": "Movies",
+      "Type": "Expense",
+      "Category": "Personal",
+      "Amount": 900.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 31,
+      "Date": "2022-03-17T00:00:00",
+      "Note": "PickMe",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 233.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 32,
+      "Date": "2022-03-19T00:00:00",
+      "Note": "Taco Bell",
+      "Type": "Expense",
+      "Category": "Food",
+      "Amount": 1456.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 33,
+      "Date": "2022-03-21T00:00:00",
+      "Note": "Uber",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 450.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 34,
+      "Date": "2022-03-22T00:00:00",
+      "Note": "Rent",
+      "Type": "Expense",
+      "Category": "Utilities",
+      "Amount": 15000.23,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 35,
+      "Date": "2022-03-23T00:00:00",
+      "Note": "Keels",
+      "Type": "Expense",
+      "Category": "Grocery",
+      "Amount": 10000.99,
+      "Recurrence": true,
+      "RecurrOn": "2022-04-23T00:00:00"
+    },
+    {
+      "ID": 36,
+      "Date": "2022-03-24T00:00:00",
+      "Note": "Gas Bill",
+      "Type": "Expense",
+      "Category": "Utilities",
+      "Amount": 5050.99,
+      "Recurrence": false,
+      "RecurrOn": "2022-04-24T00:00:00"
+    },
+    {
+      "ID": 37,
+      "Date": "2022-03-25T00:00:00",
+      "Note": "PickMe",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 200.99,
+      "Recurrence": true,
+      "RecurrOn": "2022-03-29T00:00:00"
+    },
+    {
+      "ID": 38,
+      "Date": "2022-03-25T00:00:00",
+      "Note": "XYZ Salary",
+      "Type": "Income",
+      "Category": "Salary",
+      "Amount": 96547.5,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 39,
+      "Date": "2022-03-26T00:00:00",
+      "Note": "TP Bill",
+      "Type": "Expense",
+      "Category": "Utilities",
+      "Amount": 4050.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 40,
+      "Date": "2022-03-27T00:00:00",
+      "Note": "KFC",
+      "Type": "Expense",
+      "Category": "Food",
+      "Amount": 2563.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 41,
+      "Date": "2022-03-29T00:00:00",
+      "Note": "PickMe",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 450.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 42,
+      "Date": "2022-03-31T00:00:00",
+      "Note": "Kelly Felder",
+      "Type": "Expense",
+      "Category": "Fashion",
+      "Amount": 1900.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 43,
+      "Date": "2022-04-11T00:00:00",
+      "Note": "Medicine",
+      "Type": "Expense",
+      "Category": "Health",
+      "Amount": 5450.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 44,
+      "Date": "2022-04-13T00:00:00",
+      "Note": "Arpico",
+      "Type": "Expense",
+      "Category": "Grocery",
+      "Amount": 4550.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 45,
+      "Date": "2022-04-22T00:00:00",
+      "Note": "Fuel Allowance",
+      "Type": "Income",
+      "Category": "Allowance",
+      "Amount": 2500.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 46,
+      "Date": "2022-04-23T00:00:00",
+      "Note": "Keels",
+      "Type": "Expense",
+      "Category": "Grocery",
+      "Amount": 10000.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    },
+    {
+      "ID": 47,
+      "Date": "2022-04-25T00:00:00",
+      "Note": "PickMe",
+      "Type": "Expense",
+      "Category": "Travel",
+      "Amount": 233.99,
+      "Recurrence": false,
+      "RecurrOn": "1753-01-01T00:00:00"
+    }
+  ],
+  "ItemArray": [
+    48,
+    "2022-01-01T00:00:00",
+    "Grocery",
+    "Expense",
+    "Personal",
+    10000.55,
+    true,
+    "2022-02-01T00:00:00"
+  ],
+  "HasErrors": false
+}

@@ -1,0 +1,189 @@
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.csproj.AssemblyReference.cache
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Properties.Resources.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.CategoriesForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.CategoryForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.DashboardForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.ForecastForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.MainScreenForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.StatementsForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.TransactionForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.TransactionsForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.Views.UserProfileForm.resources
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.csproj.GenerateResource.cache
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.csproj.CoreCompileInputs.cache
+C:\Users\Shannon Silva\source\repos\WalletCtrl\bin\Debug\WalletCtrl.exe.config
+C:\Users\Shannon Silva\source\repos\WalletCtrl\bin\Debug\WalletCtrl.exe
+C:\Users\Shannon Silva\source\repos\WalletCtrl\bin\Debug\WalletCtrl.pdb
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.exe
+C:\Users\Shannon Silva\source\repos\WalletCtrl\obj\Debug\WalletCtrl.pdb
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\bin\Debug\WalletCtrl.exe.config
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\bin\Debug\WalletCtrl.exe
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\bin\Debug\WalletCtrl.pdb
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.Properties.Resources.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.Views.CategoriesForm.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.Views.DashboardForm.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.Views.ForecastForm.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.Views.StatementsForm.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.Views.TransactionsForm.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.Views.UserProfileForm.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.csproj.GenerateResource.cache
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.csproj.CoreCompileInputs.cache
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.exe
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.pdb
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.csproj.AssemblyReference.cache
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.WCMainScreenForm.resources
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\bin\Debug\FluentDateTime.dll
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\bin\Debug\FluentDateTime.xml
+C:\GIT\WalletCtrl\WalletCtrlBluePrint\WalletCtrl\obj\Debug\WalletCtrl.csproj.CopyComplete
+C:\IIT\EAD\CW1\CW1\WalletCtrl\bin\Debug\WalletCtrl.exe.config
+C:\IIT\EAD\CW1\CW1\WalletCtrl\bin\Debug\WalletCtrl.exe
+C:\IIT\EAD\CW1\CW1\WalletCtrl\bin\Debug\WalletCtrl.pdb
+C:\IIT\EAD\CW1\CW1\WalletCtrl\bin\Debug\FluentDateTime.dll
+C:\IIT\EAD\CW1\CW1\WalletCtrl\bin\Debug\FluentDateTime.xml
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.csproj.AssemblyReference.cache
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.Properties.Resources.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.Views.CategoriesForm.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.Views.DashboardForm.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.Views.ForecastForm.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.WCMainScreenForm.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.Views.StatementsForm.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.Views.TransactionsForm.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.Views.UserProfileForm.resources
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.csproj.GenerateResource.cache
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.csproj.CoreCompileInputs.cache
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.csproj.CopyComplete
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.exe
+C:\IIT\EAD\CW1\CW1\WalletCtrl\obj\Debug\WalletCtrl.pdb
+C:\IIT\EAD\CW2\WalletCtrl\bin\Debug\WalletCtrl.exe.config
+C:\IIT\EAD\CW2\WalletCtrl\bin\Debug\WalletCtrl.exe
+C:\IIT\EAD\CW2\WalletCtrl\bin\Debug\WalletCtrl.pdb
+C:\IIT\EAD\CW2\WalletCtrl\bin\Debug\FluentDateTime.dll
+C:\IIT\EAD\CW2\WalletCtrl\bin\Debug\FluentDateTime.xml
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.csproj.AssemblyReference.cache
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.Properties.Resources.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.Views.CategoriesForm.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.Views.DashboardForm.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.Views.ForecastForm.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.WCMainScreenForm.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.Views.StatementsForm.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.Views.TransactionsForm.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.Views.UserProfileForm.resources
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.csproj.GenerateResource.cache
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.csproj.CoreCompileInputs.cache
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.csproj.CopyComplete
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.exe
+C:\IIT\EAD\CW2\WalletCtrl\obj\Debug\WalletCtrl.pdb
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\WalletCtrl.exe.config
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\WalletCtrl.exe
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\WalletCtrl.pdb
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\FluentDateTime.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\FluentDateTime.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.AssemblyReference.cache
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.Properties.Resources.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.CategoriesForm.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.DashboardForm.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.ForecastForm.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.WCMainScreenForm.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.StatementsForm.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.TransactionsForm.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.UserProfileForm.resources
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.GenerateResource.cache
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.CoreCompileInputs.cache
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.CopyComplete
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.exe
+C:\IIT\EAD\CW2\WalletCTRL-frontend\obj\Debug\WalletCtrl.pdb
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Newtonsoft.Json.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Newtonsoft.Json.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Buffers.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.ComponentModel.Annotations.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Memory.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Numerics.Vectors.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.ValueTuple.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Buffers.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Memory.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Numerics.Vectors.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.ValueTuple.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Http.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Options.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Http.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Options.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\SimpleInjector.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Net.Http.Extensions.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Net.Http.Formatting.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\System.Net.Http.Primitives.dll
+C:\IIT\EAD\CW2\WalletCTRL-frontend\bin\Debug\SimpleInjector.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\WalletCtrl.exe.config
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\WalletCtrl.exe
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\WalletCtrl.pdb
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\FluentDateTime.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Http.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Options.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Newtonsoft.Json.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\SimpleInjector.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Buffers.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.ComponentModel.Annotations.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Memory.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Net.Http.Extensions.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Net.Http.Formatting.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Net.Http.Primitives.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Numerics.Vectors.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.ValueTuple.dll
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\FluentDateTime.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Http.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Options.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\Newtonsoft.Json.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\SimpleInjector.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Buffers.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Memory.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Numerics.Vectors.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\bin\Debug\System.ValueTuple.xml
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.AssemblyReference.cache
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.Properties.Resources.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.CategoriesForm.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.DashboardForm.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.ForecastForm.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.WCMainScreenForm.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.StatementsForm.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.TransactionsForm.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.Views.UserProfileForm.resources
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.GenerateResource.cache
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.CoreCompileInputs.cache
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.csproj.CopyComplete
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.exe
+D:\IIT\Semesters\Sem III\ASD\CW2\Cw2_w1898869\WalletCTRL-frontend\obj\Debug\WalletCtrl.pdb
